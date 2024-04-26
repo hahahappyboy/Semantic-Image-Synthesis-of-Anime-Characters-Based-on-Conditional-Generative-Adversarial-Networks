@@ -79,7 +79,7 @@ python test.py --class_num 15  --name zero_two --class_dir ./datasets/ZeroTwo/cl
 # Result
 Our method generates images with higher quality colors and more natural textures compared to previous methods
 <p align="center">
-<img src="figs/rusult_2.png" >
+<img src="figs/result_2.png" >
 </p>
 
 <p align="center">
