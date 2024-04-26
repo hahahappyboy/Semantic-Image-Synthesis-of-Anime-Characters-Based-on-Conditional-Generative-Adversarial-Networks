@@ -48,9 +48,9 @@ def add_all_arguments(parser, train):
     parser.add_argument('--z_dim', type=int, default=11, help="dimension of the latent z vector")
 
     parser.add_argument('--class_dir', type=str, default='',
-                        help='path to the directory that contains instance maps. Leave black if not exists')
+                        help='the path for storing the character ID tag txt')
     parser.add_argument('--class_num', type=int, default=0,
-                        help='path to the directory that contains instance maps. Leave black if not exists')
+                        help='the number of anime characters contained in the dataset')
 
     if train:
         parser.add_argument('--freq_print', type=int, default=1000, help='frequency of showing training results')
