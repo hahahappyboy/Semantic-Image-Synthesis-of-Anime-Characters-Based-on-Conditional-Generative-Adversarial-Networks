@@ -117,7 +117,10 @@ url       = {https://papers.bmvc2024.org/0508.pdf}
 # Acknowledgement
 
 This code is based on [https://github.com/boschresearch/OASIS](OASIS)
-The Quintuplets dataset was collected from the popular anime work [The Quintessen-tial Quintuplets](https://www.tbs.co.jp/anime/5hanayome/news/)]
+
+The Quintuplets dataset was collected from the popular anime work [五等分の花嫁](https://www.tbs.co.jp/anime/5hanayome/)
+
+The Zero Two datase was collected from the popular anime work [DARLING in the FRANXX](https://en.cloverworks.co.jp/works/darlifra/)
 
 # License
 
