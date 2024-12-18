@@ -2,6 +2,7 @@
 
 Official PyTorch implementation of the BMVC  2024 paper "Semantic Image Synthesis of Anime Characters Based on Conditional Generative Adversarial Networks". The code allows the users to
 reproduce and extend the results reported in the study. Please cite the paper when reporting, reproducing or extending the results.
+
 [[BMVC website](https://bmvc2024.org/proceedings/508/)] 
 
 
