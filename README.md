@@ -1,6 +1,12 @@
 # Semantic Image Synthesis of Anime Characters Based on Conditional Generative Adversarial Networks
 
-**Abstract**: The goal of semantic image synthesis is to generate realistic images from semantic label maps. However, current approaches for generating anime characters from semantic label maps still encounter some issues, particularly the inability to directly generate a specific anime character from the semantic label map, as well as blurred colors and chaotic textures in the generated images. To address these issues, we propose a Conditional Generative Adversarial Network for Semantic Image Synthesis of Anime Characters. Specifically, in the generator, we propose character identity tensor to control the generation of specified anime characters, and introduce conditional noise to enable the generated images to have natural colors. Additionally, we redesign the discriminator as a network based on semantic segmentation and edge detection, which effectively supervises the texture details, guiding the generator to generate images with higher-quality textures. Experimental results show the superiority of our proposed method in generating specific and realistic anime characters compared to existing methods.
+Official PyTorch implementation of the BMVC  2024 paper "Semantic Image Synthesis of Anime Characters Based on Conditional Generative Adversarial Networks". The code allows the users to
+reproduce and extend the results reported in the study. Please cite the paper when reporting, reproducing or extending the results.
+[[BMVC website](https://bmvc2024.org/proceedings/508/)] 
+
+
+# Abstract
+The goal of semantic image synthesis is to generate realistic images from semantic label maps. However, current approaches for generating anime characters from semantic label maps still encounter some issues, particularly the inability to directly generate a specific anime character from the semantic label map, as well as blurred colors and chaotic textures in the generated images. To address these issues, we propose a Conditional Generative Adversarial Network for Semantic Image Synthesis of Anime Characters. Specifically, in the generator, we propose character identity tensor to control the generation of specified anime characters, and introduce conditional noise to enable the generated images to have natural colors. Additionally, we redesign the discriminator as a network based on semantic segmentation and edge detection, which effectively supervises the texture details, guiding the generator to generate images with higher-quality textures. Experimental results show the superiority of our proposed method in generating specific and realistic anime characters compared to existing methods.
 
 <p align="center">
 <img src="figs/result_1.png" >
