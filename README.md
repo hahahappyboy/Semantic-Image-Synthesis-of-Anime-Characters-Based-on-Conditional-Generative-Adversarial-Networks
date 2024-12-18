@@ -95,7 +95,9 @@ Our method has better results on FID and KID compared to previous methods, and h
 # Contact
 
 If you have any questions, please create an issue on this repository or contact us at 
+
 [wj@cqu.edu.cn](wj@cqu.edu.cn)
+
 [zhuxuhui@cqu.edu.cn](zhuxuhui@cqu.edu.cn)
 
 # Citation
@@ -115,6 +117,7 @@ url       = {https://papers.bmvc2024.org/0508.pdf}
 # Acknowledgement
 
 This code is based on [https://github.com/boschresearch/OASIS](OASIS)
+The Quintuplets dataset was collected from the popular anime work [The Quintessen-tial Quintuplets](https://www.tbs.co.jp/anime/5hanayome/news/)]
 
 # License
 
