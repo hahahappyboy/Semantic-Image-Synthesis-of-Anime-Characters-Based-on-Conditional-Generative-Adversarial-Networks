@@ -95,10 +95,22 @@ Our method has better results on FID and KID compared to previous methods, and h
 # Contact
 
 If you have any questions, please create an issue on this repository or contact us at 
+[wj@cqu.edu.cn](wj@cqu.edu.cn)
+[zhuxuhui@cqu.edu.cn](zhuxuhui@cqu.edu.cn)
 
 # Citation
 
 If you use this work please cite
+```
+@inproceedings{Zhu_2024_BMVC,
+author    = {Xuhui Zhu and feng jiang and Jing Wen and yi wang and qiang gao},
+title     = {Semantic Image Synthesis of Anime Characters Based on Conditional Generative Adversarial Networks},
+booktitle = {35th British Machine Vision Conference 2024, {BMVC} 2024, Glasgow, UK, November 25-28, 2024},
+publisher = {BMVA},
+year      = {2024},
+url       = {https://papers.bmvc2024.org/0508.pdf}
+}
+```
 
 # Acknowledgement
 
