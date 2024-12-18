@@ -1,6 +1,6 @@
 # Semantic Image Synthesis of Anime Characters Based on Conditional Generative Adversarial Networks
 
-**Abstract**: The goal of semantic image synthesis is to generate realistic images from semantic label images. However, current state-of-the-art approaches for generating anime characters from semantic images still face challenges, especially in the inability to control the network to generate a specific anime character and in the resulting confusion of texture details in the generated anime characters. To address this, we introduce a Generative Adversarial Network for Semantic Image Synthesis of Anime Characters, featuring a conditional generator based on character identity for precise character generation and high-quality colors, as well as discriminators leveraging semantic segmentation and edge detection to enhance texture realism. In our experiments, we constructed two new datasets collected from popular anime works, including annotations for semantic images. Experimental results show the superiority of our proposed method in generating specific and realistic anime characters compared to existing methods.
+**Abstract**: The goal of semantic image synthesis is to generate realistic images from semantic label maps. However, current approaches for generating anime characters from semantic label maps still encounter some issues, particularly the inability to directly generate a specific anime character from the semantic label map, as well as blurred colors and chaotic textures in the generated images. To address these issues, we propose a Conditional Generative Adversarial Network for Semantic Image Synthesis of Anime Characters. Specifically, in the generator, we propose character identity tensor to control the generation of specified anime characters, and introduce conditional noise to enable the generated images to have natural colors. Additionally, we redesign the discriminator as a network based on semantic segmentation and edge detection, which effectively supervises the texture details, guiding the generator to generate images with higher-quality textures. Experimental results show the superiority of our proposed method in generating specific and realistic anime characters compared to existing methods.
 
 <p align="center">
 <img src="figs/result_1.png" >
@@ -8,7 +8,7 @@
 
 # Datasets
 
-The Quintuplets and Zero Two Datasets can be downloaded [here]() as zip files. Copy them into the checkpoints folder (the default is `./datasets`, create it if it doesn't yet exist) and unzip them. The folder structure should be
+The Quintuplets and Zero Two Datasets can be downloaded [here](https://pan.baidu.com/s/1Nn_TmOfBx3JA9peBzzTrdA?pwd=1234) as zip files. Copy them into the checkpoints folder (the default is `./datasets`, create it if it doesn't yet exist) and unzip them. The folder structure should be
 
 ```
 datasets
@@ -18,7 +18,7 @@ datasets
 
 # Pretrained models
 
-The checkpoints for the pre-trained models are available [here](https://pan.baidu.com/s/1_oV5gn33nUtZZtwGVR0yGA?pwd=1234) as zip files. Copy them into the checkpoints folder (the default is `./checkpoints`, create it if it doesn't yet exist) and unzip them. The folder structure should be
+The checkpoints for the pre-trained models are available [here](https://pan.baidu.com/s/1Nn_TmOfBx3JA9peBzzTrdA?pwd=1234) as zip files. Copy them into the checkpoints folder (the default is `./checkpoints`, create it if it doesn't yet exist) and unzip them. The folder structure should be
 
 ```
 checkpoints
