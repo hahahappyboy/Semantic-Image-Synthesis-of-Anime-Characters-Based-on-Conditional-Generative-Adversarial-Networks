@@ -15,7 +15,7 @@ The goal of semantic image synthesis is to generate realistic images from semant
 
 # Datasets
 
-The Quintuplets and Zero Two Datasets can be downloaded [here](https://pan.baidu.com/s/1Nn_TmOfBx3JA9peBzzTrdA?pwd=1234) as zip files. Copy them into the checkpoints folder (the default is `./datasets`, create it if it doesn't yet exist) and unzip them. The folder structure should be
+The Quintuplets and Zero Two Datasets can be downloaded [here(Baidu)](https://pan.baidu.com/s/1Nn_TmOfBx3JA9peBzzTrdA?pwd=1234) or [here(Google)](https://drive.google.com/drive/folders/1i9IKMS306ZH5kcl7arMVdGD32HcVLOT1?usp=sharing)  as zip files. Copy them into the checkpoints folder (the default is `./datasets`, create it if it doesn't yet exist) and unzip them. The folder structure should be
 
 ```
 datasets
@@ -25,7 +25,7 @@ datasets
 
 # Pretrained models
 
-The checkpoints for the pre-trained models are available [here](https://pan.baidu.com/s/1Nn_TmOfBx3JA9peBzzTrdA?pwd=1234) as zip files. Copy them into the checkpoints folder (the default is `./checkpoints`, create it if it doesn't yet exist) and unzip them. The folder structure should be
+The checkpoints for the pre-trained models are available  [here(Baidu)](https://pan.baidu.com/s/1Nn_TmOfBx3JA9peBzzTrdA?pwd=1234) or [here(Google)](https://drive.google.com/drive/folders/1i9IKMS306ZH5kcl7arMVdGD32HcVLOT1?usp=sharing) as zip files. Copy them into the checkpoints folder (the default is `./checkpoints`, create it if it doesn't yet exist) and unzip them. The folder structure should be
 
 ```
 checkpoints
