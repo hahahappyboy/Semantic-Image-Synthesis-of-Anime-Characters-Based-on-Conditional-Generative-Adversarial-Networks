@@ -105,7 +105,7 @@ If you have any questions, please create an issue on this repository or contact 
 
 [wj@cqu.edu.cn](wj@cqu.edu.cn)
 
-[zhuxuhui@cqu.edu.cn](zhuxuhui@cqu.edu.cn)
+[zhule1le1@qq.com](zhule1le1@qq.com)
 
 # Citation
 
