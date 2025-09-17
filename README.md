@@ -102,10 +102,10 @@ Our method has better results on FID and KID compared to previous methods, and h
 # Contact
 
 If you have any questions, please create an issue on this repository or contact us at 
+Xuhui Zhu [904749952@qq.com](904749952@qq.com)
 
-[wj@cqu.edu.cn](wj@cqu.edu.cn)
+Jing Wen  [wj@cqu.edu.cn](wj@cqu.edu.cn)
 
-[904749952@qq.com](904749952@qq.com)
 
 # Citation
 
